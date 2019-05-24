@@ -2,8 +2,8 @@
 
 ## 概要 - summary
 
-公式の mariadb イメージに Mroonga エンジンが選択できるようになるプラグインを追加したものです。  
-A plugin has been added that allows the Mroonga engine to be selected in the official mariadb image.
+公式の mariadb イメージに Mroonga プラグインを追加した dockerfile です。これでストレージエンジンに `Mroonga` が選択できるようになります。  
+Dockerfile with Mroonga plugin added to the official mariadb image. Now you can select `Mroonga` as the storage engine.
 
 - MariaDB  
   https://mariadb.org/  
